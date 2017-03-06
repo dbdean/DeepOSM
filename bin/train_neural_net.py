@@ -4,7 +4,6 @@
 
 import argparse
 from src.single_layer_network import train_on_cached_data
-from src.training_visualization import render_result_jpegs
 
 
 def create_parser():
